@@ -7,13 +7,13 @@ title: Hexo
 subtitle: ""
 description: ""
 keywords:
-author: goodking
+author: John Doe
 language: en
 timezone: ""
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://goodkinger.com
+url: http://example.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
